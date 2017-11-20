@@ -13,6 +13,6 @@ public class InnTest {
 													"Conjured Mana Cake");
 		assertThat(inn.getItems()).extracting("quality").contains(20, 0, 7 80, 20, 6);
 		
-		assertTaht(inn.getItems()).extracting("sellin")
+		assertThat(inn.getItems()).extracting("sellin")
 	}
 }
