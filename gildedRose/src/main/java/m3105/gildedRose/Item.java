@@ -1,4 +1,5 @@
 package m3105.gildedRose;
+
 public class Item {
 	private String name;
 	private int sellIn;
