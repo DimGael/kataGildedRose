@@ -2,17 +2,7 @@ package m3105.gildedRose;
 
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.assertThat;
-//Tests écrits avec AssertJ pour simplifier l'écriture des tests
-// http://joel-costigliola.github.io/assertj/
-//Pour pouvoir utiliser AssertJ dans votre projet maven, ajoutez dans votre pom.xml
-/*
-		 <dependency>
-             <groupId>org.assertj</groupId>
-             <artifactId>assertj-core</artifactId>
-             <version>3.2.0</version>
-             <scope>test</scope>
-         </dependency>
-*/
+
 import java.util.List;
 
 public class InnTest {
